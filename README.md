@@ -18,15 +18,6 @@
 
 ---
 
-## 🎓 Education Details (쌍용교육센터 커리큘럼)
-
-* **Core Backend & Architecture**: Java, Model1, Spring Boot 기반 백엔드 구현, RESTful API 및 네트워크 프로그래밍
-* **Frontend & UI/UX**: HTML5/CSS3/JavaScript 기반 사용자 요구사항 분석 및 Front-End 화면 설계/구현
-* **Database & Modeling**: 관계형 데이터베이스(RDB) 논리/물리 모델링, SQL 활용 및 응용(DDL, DML, DCL)
-* **Cloud & Infrastructure**: AWS 클라우드 환경 구축, Docker 가상화 컨테이너 아키텍처 설계, YAML 기반 오케스트레이션 및 CI/CD 배포 파이프라인 구축
-* **Practical Projects**: 팀 단위 컨테이너 활용 AWS 클라우드 기반 풀스택 프로젝트 개발 및 배포 전주기 경험
-
----
 
 ## 🛠 Tech Stack
 
