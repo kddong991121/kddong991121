@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 김상준
+# 👋 Hi, I'm Brandon(김상준)
 
 **끊임없이 도전하는 Java Full-Stack 주니어 개발자**입니다.
 
