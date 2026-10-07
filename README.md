@@ -28,6 +28,13 @@ DB 설계부터 백엔드, 프론트엔드까지 서비스 전체 흐름을 이�
 - 메뉴 목록 · 페이지네이션, 메뉴 상세(단품/세트 · 사이드 · 음료 · 재료 옵션) 화면 담당
 - 옵션 선택에 따른 실시간 가격 계산과 장바구니 연결 구현
 
+### 📝 [Spring Memo](https://github.com/kddong991121/spring-memo)
+<sub>`Spring MVC` `MyBatis` `Oracle` `JSP` · 개인 프로젝트 · 2026.10</sub>
+
+- **Controller → Service → DAO → Mapper** 계층을 직접 구성한 카드형 메모장 CRUD
+- 카테고리 테이블 JOIN으로 메모별 **카테고리 색상** 표시, 오늘/이전 메모 날짜 표시 분기
+- HikariCP · SqlSessionTemplate 기반 MyBatis 연동, DB 접속 정보를 `properties`로 분리
+
 ### 🏓 [탁구 점수 관리 프로그램](https://github.com/kddong991121/TableTennis_Score_Program)
 <sub>`Java` · 3인 팀 프로젝트 · 2026.08</sub>
 
@@ -55,6 +62,8 @@ DB 설계부터 백엔드, 프론트엔드까지 서비스 전체 흐름을 이�
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=flat-square" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" />
   <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=flat-square&logo=databricks&logoColor=white" />
@@ -84,6 +93,7 @@ DB 설계부터 백엔드, 프론트엔드까지 서비스 전체 흐름을 이�
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square" />
